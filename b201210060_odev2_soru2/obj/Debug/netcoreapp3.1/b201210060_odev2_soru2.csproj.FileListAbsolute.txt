@@ -1,0 +1,30 @@
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.exe
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.deps.json
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.runtimeconfig.json
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.runtimeconfig.dev.json
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.dll
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.pdb
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.csprojAssemblyReference.cache
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.Form1.resources
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.csproj.GenerateResource.cache
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.AssemblyInfoInputs.cache
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.AssemblyInfo.cs
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.csproj.CoreCompileInputs.cache
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.dll
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.pdb
+C:\Users\Sezer\source\repos\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.genruntimeconfig.cache
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.exe
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.deps.json
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.runtimeconfig.json
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.runtimeconfig.dev.json
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.dll
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\bin\Debug\netcoreapp3.1\b201210060_odev2_soru2.pdb
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.csprojAssemblyReference.cache
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.Form1.resources
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.csproj.GenerateResource.cache
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.AssemblyInfoInputs.cache
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.AssemblyInfo.cs
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.csproj.CoreCompileInputs.cache
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.dll
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.pdb
+C:\Users\Sezer\dersler\ödevler\gönderilenler\nyp ödev2\b201210060_odev2_soru2\obj\Debug\netcoreapp3.1\b201210060_odev2_soru2.genruntimeconfig.cache
